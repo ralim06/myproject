@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-01-06 14:51:50
+<?php /* Smarty version Smarty-3.1.19, created on 2016-01-07 11:37:49
          compiled from "C:\Program Files (x86)\EasyPHP-12.1\www\myproject\themes\default-bootstrap\modules\blockcontactinfos\blockcontactinfos.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:5794568d1bf6a77483-72143541%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1532568e3ffda222f0-23020113%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'b9a3670ae5f31189d99d4195385f0b43bee072e8' => 
     array (
       0 => 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\themes\\default-bootstrap\\modules\\blockcontactinfos\\blockcontactinfos.tpl',
-      1 => 1451568665,
+      1 => 1452093433,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '5794568d1bf6a77483-72143541',
+  'nocache_hash' => '1532568e3ffda222f0-23020113',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_568d1bf6bb7983_10129214',
+  'unifunc' => 'content_568e3ffdb08a70_86213768',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_568d1bf6bb7983_10129214')) {function content_568d1bf6bb7983_10129214($_smarty_tpl) {?><?php if (!is_callable('smarty_function_mailto')) include 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\tools\\smarty\\plugins\\function.mailto.php';
+<?php if ($_valid && !is_callable('content_568e3ffdb08a70_86213768')) {function content_568e3ffdb08a70_86213768($_smarty_tpl) {?><?php if (!is_callable('smarty_function_mailto')) include 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\tools\\smarty\\plugins\\function.mailto.php';
 ?>
 
 <!-- MODULE Block contact infos -->

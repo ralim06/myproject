@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-01-06 14:14:21
+<?php /* Smarty version Smarty-3.1.19, created on 2016-01-06 16:40:54
          compiled from "C:\Program Files (x86)\EasyPHP-12.1\www\myproject\admin228c4ef56\themes\default\template\helpers\kpi\row.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:19046568d132d5c10e4-94623693%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:22380568d3586dcdaf8-01996149%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '86f44d499ce35fefa5e51ec397f890d9b09cf906' => 
     array (
       0 => 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\admin228c4ef56\\themes\\default\\template\\helpers\\kpi\\row.tpl',
-      1 => 1451568569,
+      1 => 1452093415,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '19046568d132d5c10e4-94623693',
+  'nocache_hash' => '22380568d3586dcdaf8-01996149',
   'function' => 
   array (
   ),
@@ -23,9 +23,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_568d132d649c67_21113471',
+  'unifunc' => 'content_568d3586e527f9_69846344',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_568d132d649c67_21113471')) {function content_568d132d649c67_21113471($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_568d3586e527f9_69846344')) {function content_568d3586e527f9_69846344($_smarty_tpl) {?>
 <div class="panel kpi-container">
 	<div class="kpi-refresh"><button class="close refresh" type="button" onclick="refresh_kpis();"><i class="process-icon-refresh" style="font-size:1em"></i></button></div>
 	<div class="row">

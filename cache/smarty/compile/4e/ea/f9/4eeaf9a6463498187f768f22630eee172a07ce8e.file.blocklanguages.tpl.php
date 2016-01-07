@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-01-06 14:51:55
+<?php /* Smarty version Smarty-3.1.19, created on 2016-01-07 11:37:54
          compiled from "C:\Program Files (x86)\EasyPHP-12.1\www\myproject\themes\default-bootstrap\modules\blocklanguages\blocklanguages.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:23077568d1bfbbcf088-68187064%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:13106568e4002033373-50878048%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '4eeaf9a6463498187f768f22630eee172a07ce8e' => 
     array (
       0 => 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\themes\\default-bootstrap\\modules\\blocklanguages\\blocklanguages.tpl',
-      1 => 1451568665,
+      1 => 1452093433,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '23077568d1bfbbcf088-68187064',
+  'nocache_hash' => '13106568e4002033373-50878048',
   'function' => 
   array (
   ),
@@ -26,9 +26,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_568d1bfbdc3083_88181550',
+  'unifunc' => 'content_568e400220fc70_23707015',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_568d1bfbdc3083_88181550')) {function content_568d1bfbdc3083_88181550($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_regex_replace')) include 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\tools\\smarty\\plugins\\modifier.regex_replace.php';
+<?php if ($_valid && !is_callable('content_568e400220fc70_23707015')) {function content_568e400220fc70_23707015($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_regex_replace')) include 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\tools\\smarty\\plugins\\modifier.regex_replace.php';
 ?>
 <!-- Block languages module -->
 <?php if (count($_smarty_tpl->tpl_vars['languages']->value)>1) {?>

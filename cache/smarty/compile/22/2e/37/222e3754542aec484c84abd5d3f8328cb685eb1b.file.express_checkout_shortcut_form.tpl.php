@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-01-06 11:53:24
+<?php /* Smarty version Smarty-3.1.19, created on 2016-01-07 11:37:48
          compiled from "C:\Program Files (x86)\EasyPHP-12.1\www\myproject\modules\paypal\views\templates\hook\express_checkout_shortcut_form.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1543568cf224dc68b9-58081126%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2253568e3ffca74378-21076721%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '222e3754542aec484c84abd5d3f8328cb685eb1b' => 
     array (
       0 => 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\modules\\paypal\\views\\templates\\hook\\express_checkout_shortcut_form.tpl',
-      1 => 1452004574,
+      1 => 1452093430,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1543568cf224dc68b9-58081126',
+  'nocache_hash' => '2253568e3ffca74378-21076721',
   'function' => 
   array (
   ),
@@ -25,9 +25,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_568cf224e72704_06089685',
+  'unifunc' => 'content_568e3ffcb18470_62969277',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_568cf224e72704_06089685')) {function content_568cf224e72704_06089685($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_568e3ffcb18470_62969277')) {function content_568e3ffcb18470_62969277($_smarty_tpl) {?>
 
 <form id="paypal_payment_form" action="<?php echo $_smarty_tpl->tpl_vars['base_dir_ssl']->value;?>
 modules/paypal/express_checkout/payment.php" title="<?php echo smartyTranslate(array('s'=>'Pay with PayPal','mod'=>'paypal'),$_smarty_tpl);?>

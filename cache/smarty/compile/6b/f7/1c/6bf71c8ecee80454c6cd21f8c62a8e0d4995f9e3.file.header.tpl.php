@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-01-06 14:51:52
+<?php /* Smarty version Smarty-3.1.19, created on 2016-01-07 11:37:53
          compiled from "C:\Program Files (x86)\EasyPHP-12.1\www\myproject\themes\default-bootstrap\header.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:31470568d1bf8543405-12779898%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:13543568e4001674c76-25813404%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '6bf71c8ecee80454c6cd21f8c62a8e0d4995f9e3' => 
     array (
       0 => 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\themes\\default-bootstrap\\header.tpl',
-      1 => 1452002828,
+      1 => 1452093432,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '31470568d1bf8543405-12779898',
+  'nocache_hash' => '13543568e4001674c76-25813404',
   'function' => 
   array (
   ),
@@ -56,9 +56,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_568d1bf8c77003_97437163',
+  'unifunc' => 'content_568e4001d0c477_08945224',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_568d1bf8c77003_97437163')) {function content_568d1bf8c77003_97437163($_smarty_tpl) {?><?php if (!is_callable('smarty_function_implode')) include 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\tools\\smarty\\plugins\\function.implode.php';
+<?php if ($_valid && !is_callable('content_568e4001d0c477_08945224')) {function content_568e4001d0c477_08945224($_smarty_tpl) {?><?php if (!is_callable('smarty_function_implode')) include 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\tools\\smarty\\plugins\\function.implode.php';
 ?>
 <!DOCTYPE HTML>
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7"<?php if (isset($_smarty_tpl->tpl_vars['language_code']->value)&&$_smarty_tpl->tpl_vars['language_code']->value) {?> lang="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['language_code']->value, ENT_QUOTES, 'UTF-8', true);?>

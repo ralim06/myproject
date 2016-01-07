@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-01-06 14:51:50
+<?php /* Smarty version Smarty-3.1.19, created on 2016-01-07 11:37:49
          compiled from "C:\Program Files (x86)\EasyPHP-12.1\www\myproject\themes\default-bootstrap\modules\blockmyaccountfooter\blockmyaccountfooter.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:19053568d1bf67fa907-20618541%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:22255568e3ffd7ebc74-58194262%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '74730cc443f9e78c930889efb1a061cae39a9cf6' => 
     array (
       0 => 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\themes\\default-bootstrap\\modules\\blockmyaccountfooter\\blockmyaccountfooter.tpl',
-      1 => 1451568666,
+      1 => 1452093433,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '19053568d1bf67fa907-20618541',
+  'nocache_hash' => '22255568e3ffd7ebc74-58194262',
   'function' => 
   array (
   ),
@@ -25,9 +25,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_568d1bf6a21582_06466441',
+  'unifunc' => 'content_568e3ffd9e7978_99586138',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_568d1bf6a21582_06466441')) {function content_568d1bf6a21582_06466441($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_568e3ffd9e7978_99586138')) {function content_568e3ffd9e7978_99586138($_smarty_tpl) {?>
 
 <!-- Block myaccount module -->
 <section class="footer-block col-xs-12 col-sm-4">

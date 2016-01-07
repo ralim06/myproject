@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-01-06 11:46:40
+<?php /* Smarty version Smarty-3.1.19, created on 2016-01-06 17:09:36
          compiled from "C:\Program Files (x86)\EasyPHP-12.1\www\myproject\modules\dashgoals\views\templates\hook\dashboard_zone_two.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:25334568cf0905cebb1-22441349%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:20741568d3c400f49b7-17353647%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '700c1c0a1d8d2e32d7afbf4b463a17a62eb131f6' => 
     array (
       0 => 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\modules\\dashgoals\\views\\templates\\hook\\dashboard_zone_two.tpl',
-      1 => 1451568649,
+      1 => 1452093428,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '25334568cf0905cebb1-22441349',
+  'nocache_hash' => '20741568d3c400f49b7-17353647',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_568cf0906d08b1_89320146',
+  'unifunc' => 'content_568d3c40202230_99898336',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_568cf0906d08b1_89320146')) {function content_568cf0906d08b1_89320146($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_568d3c40202230_99898336')) {function content_568d3c40202230_99898336($_smarty_tpl) {?>
 <div class="clearfix"></div>
 <script>
 	var currency_format = <?php echo intval($_smarty_tpl->tpl_vars['currency']->value->format);?>

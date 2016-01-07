@@ -1,23 +1,23 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-01-06 14:16:26
+<?php /* Smarty version Smarty-3.1.19, created on 2016-01-06 17:09:31
          compiled from "C:\Program Files (x86)\EasyPHP-12.1\www\myproject\admin228c4ef56\themes\default\template\helpers\form\form.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:32109568d13aac35668-90827334%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:26953568d3c3b778939-86346356%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '574f0251963636e0bc8fa0c35b98825b693061fa' => 
     array (
       0 => 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\admin228c4ef56\\themes\\default\\template\\helpers\\form\\form.tpl',
-      1 => 1451568569,
+      1 => 1452093415,
       2 => 'file',
     ),
     '6ddf02e7ad2cd84270bd9cd91247ccac55084d3e' => 
     array (
       0 => 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\admin228c4ef56\\themes\\default\\template\\helpers\\form\\form_group.tpl',
-      1 => 1451568569,
+      1 => 1452093415,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '32109568d13aac35668-90827334',
+  'nocache_hash' => '26953568d3c3b778939-86346356',
   'function' => 
   array (
   ),
@@ -73,9 +73,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_568d13af008363_99882045',
+  'unifunc' => 'content_568d3c3f768f32_32421981',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_568d13af008363_99882045')) {function content_568d13af008363_99882045($_smarty_tpl) {?><?php if (!is_callable('smarty_function_counter')) include 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\tools\\smarty\\plugins\\function.counter.php';
+<?php if ($_valid && !is_callable('content_568d3c3f768f32_32421981')) {function content_568d3c3f768f32_32421981($_smarty_tpl) {?><?php if (!is_callable('smarty_function_counter')) include 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\tools\\smarty\\plugins\\function.counter.php';
 ?>
 <?php if (isset($_smarty_tpl->tpl_vars['fields']->value['title'])) {?><h3><?php echo $_smarty_tpl->tpl_vars['fields']->value['title'];?>
 </h3><?php }?>
@@ -1161,8 +1161,8 @@ $_smarty_tpl->tpl_vars['v']->_loop = true;
 									<?php $_smarty_tpl->tpl_vars['groups'] = new Smarty_variable($_smarty_tpl->tpl_vars['input']->value['values'], null, 0);?>
 									<?php /*  Call merged included template "helpers/form/form_group.tpl" */
 $_tpl_stack[] = $_smarty_tpl;
- $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate('helpers/form/form_group.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0, '32109568d13aac35668-90827334');
-content_568d13ae075962_71260798($_smarty_tpl);
+ $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate('helpers/form/form_group.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0, '26953568d3c3b778939-86346356');
+content_568d3c3e83be35_50240678($_smarty_tpl);
 $_smarty_tpl = array_pop($_tpl_stack); 
 /*  End of included template "helpers/form/form_group.tpl" */?>
 								<?php } elseif ($_smarty_tpl->tpl_vars['input']->value['type']=='shop') {?>
@@ -1539,9 +1539,9 @@ $_smarty_tpl->tpl_vars['language']->_loop = true;
 	</script>
 <?php }?>
 <?php }} ?>
-<?php /* Smarty version Smarty-3.1.19, created on 2016-01-06 14:16:30
+<?php /* Smarty version Smarty-3.1.19, created on 2016-01-06 17:09:34
          compiled from "C:\Program Files (x86)\EasyPHP-12.1\www\myproject\admin228c4ef56\themes\default\template\helpers\form\form_group.tpl" */ ?>
-<?php if ($_valid && !is_callable('content_568d13ae075962_71260798')) {function content_568d13ae075962_71260798($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_568d3c3e83be35_50240678')) {function content_568d3c3e83be35_50240678($_smarty_tpl) {?>
 
 <?php if (count($_smarty_tpl->tpl_vars['groups']->value)&&isset($_smarty_tpl->tpl_vars['groups']->value)) {?>
 <div class="row">

@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-01-06 11:52:33
+<?php /* Smarty version Smarty-3.1.19, created on 2016-01-07 11:37:49
          compiled from "C:\Program Files (x86)\EasyPHP-12.1\www\myproject\themes\default-bootstrap\shopping-cart.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:13832568cf1f1517479-83836741%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:8922568e3ffddc3df8-73090149%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '8654c3fb02205d8ca4e4c05553732135658e7bc4' => 
     array (
       0 => 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\themes\\default-bootstrap\\shopping-cart.tpl',
-      1 => 1451568661,
+      1 => 1452163063,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '13832568cf1f1517479-83836741',
+  'nocache_hash' => '8922568e3ffddc3df8-73090149',
   'function' => 
   array (
   ),
@@ -93,13 +93,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'addedli' => 0,
     'HOOK_SHOPPING_CART' => 0,
     'back' => 0,
-    'HOOK_SHOPPING_CART_EXTRA' => 0,
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_568cf1f37526d6_23091189',
+  'unifunc' => 'content_568e3fffee4ef4_58057920',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_568cf1f37526d6_23091189')) {function content_568cf1f37526d6_23091189($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_regex_replace')) include 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\tools\\smarty\\plugins\\modifier.regex_replace.php';
+<?php if ($_valid && !is_callable('content_568e3fffee4ef4_58057920')) {function content_568e3fffee4ef4_58057920($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_regex_replace')) include 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\tools\\smarty\\plugins\\modifier.regex_replace.php';
 ?>
 
 <?php $_smarty_tpl->_capture_stack[0][] = array('path', null, null); ob_start(); ?><?php echo smartyTranslate(array('s'=>'Your shopping cart'),$_smarty_tpl);?>
@@ -953,11 +952,7 @@ $_smarty_tpl->tpl_vars['key']->_loop = true;
 
 		</a>
 	</p>
-	<div class="clear"></div>
-	<div class="cart_navigation_extra">
-		<div id="HOOK_SHOPPING_CART_EXTRA"><?php if (isset($_smarty_tpl->tpl_vars['HOOK_SHOPPING_CART_EXTRA']->value)) {?><?php echo $_smarty_tpl->tpl_vars['HOOK_SHOPPING_CART_EXTRA']->value;?>
-<?php }?></div>
-	</div>
+
 <?php echo $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['addJsDef'][0][0]->addJsDef(array('deliveryAddress'=>intval($_smarty_tpl->tpl_vars['cart']->value->id_address_delivery)),$_smarty_tpl);?>
 <?php $_smarty_tpl->smarty->_tag_stack[] = array('addJsDefL', array('name'=>'txtProduct')); $_block_repeat=true; echo $_smarty_tpl->smarty->registered_plugins['block']['addJsDefL'][0][0]->addJsDefL(array('name'=>'txtProduct'), null, $_smarty_tpl, $_block_repeat);while ($_block_repeat) { ob_start();?>
 <?php echo smartyTranslate(array('s'=>'product','js'=>1),$_smarty_tpl);?>

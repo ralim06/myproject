@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-01-06 11:35:57
+<?php /* Smarty version Smarty-3.1.19, created on 2016-01-06 17:13:42
          compiled from "C:\Program Files (x86)\EasyPHP-12.1\www\myproject\admin228c4ef56\themes\default\template\helpers\options\options.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:883568cee0d961ef8-77823597%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:15195568d3d3609ac35-12038278%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '4f17df3783266a89c95a6b65d1c018b429ffb495' => 
     array (
       0 => 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\admin228c4ef56\\themes\\default\\template\\helpers\\options\\options.tpl',
-      1 => 1451568569,
+      1 => 1452093415,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '883568cee0d961ef8-77823597',
+  'nocache_hash' => '15195568d3d3609ac35-12038278',
   'function' => 
   array (
   ),
@@ -47,9 +47,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_568cee0f3f2ab3_63899266',
+  'unifunc' => 'content_568d3d37b0e8b8_00655391',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_568cee0f3f2ab3_63899266')) {function content_568cee0f3f2ab3_63899266($_smarty_tpl) {?><?php if (!is_callable('smarty_function_counter')) include 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\tools\\smarty\\plugins\\function.counter.php';
+<?php if ($_valid && !is_callable('content_568d3d37b0e8b8_00655391')) {function content_568d3d37b0e8b8_00655391($_smarty_tpl) {?><?php if (!is_callable('smarty_function_counter')) include 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\tools\\smarty\\plugins\\function.counter.php';
 if (!is_callable('smarty_modifier_escape')) include 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\tools\\smarty\\plugins\\modifier.escape.php';
 if (!is_callable('smarty_modifier_replace')) include 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\tools\\smarty\\plugins\\modifier.replace.php';
 ?>

@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-01-06 12:02:15
+<?php /* Smarty version Smarty-3.1.19, created on 2016-01-07 10:47:05
          compiled from "C:\Program Files (x86)\EasyPHP-12.1\www\myproject\themes\default-bootstrap\modules\productcomments\productcomments_reviews.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:17023568cf437a3c931-41563976%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:5268568e3419516fc5-02629223%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '50eab536e039a0f56c1bcddb7c5781f86925dc58' => 
     array (
       0 => 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\themes\\default-bootstrap\\modules\\productcomments\\productcomments_reviews.tpl',
-      1 => 1451568668,
+      1 => 1452093433,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '17023568cf437a3c931-41563976',
+  'nocache_hash' => '5268568e3419516fc5-02629223',
   'function' => 
   array (
   ),
@@ -23,9 +23,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_568cf437b1f299_88129569',
+  'unifunc' => 'content_568e3419676956_13224274',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_568cf437b1f299_88129569')) {function content_568cf437b1f299_88129569($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_568e3419676956_13224274')) {function content_568e3419676956_13224274($_smarty_tpl) {?>
 <?php if (isset($_smarty_tpl->tpl_vars['nbComments']->value)&&$_smarty_tpl->tpl_vars['nbComments']->value>0) {?>
 	<div class="comments_note" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
 		<div class="star_content clearfix">

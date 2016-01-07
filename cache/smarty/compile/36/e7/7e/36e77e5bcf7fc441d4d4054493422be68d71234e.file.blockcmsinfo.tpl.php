@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-01-06 12:02:14
+<?php /* Smarty version Smarty-3.1.19, created on 2016-01-07 10:47:03
          compiled from "C:\Program Files (x86)\EasyPHP-12.1\www\myproject\modules\blockcmsinfo\blockcmsinfo.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:180568cf4362d5768-45665456%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:20613568e3417739228-42896838%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '36e77e5bcf7fc441d4d4054493422be68d71234e' => 
     array (
       0 => 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\modules\\blockcmsinfo\\blockcmsinfo.tpl',
-      1 => 1451568637,
+      1 => 1452093425,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '180568cf4362d5768-45665456',
+  'nocache_hash' => '20613568e3417739228-42896838',
   'function' => 
   array (
   ),
@@ -22,9 +22,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_568cf43631fb09_04853314',
+  'unifunc' => 'content_568e34177835c7_71219409',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_568cf43631fb09_04853314')) {function content_568cf43631fb09_04853314($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_568e34177835c7_71219409')) {function content_568e34177835c7_71219409($_smarty_tpl) {?>
 <?php if (count($_smarty_tpl->tpl_vars['infos']->value)>0) {?>
 <!-- MODULE Block cmsinfo -->
 <div id="cmsinfo_block">

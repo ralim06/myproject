@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-01-06 14:51:45
+<?php /* Smarty version Smarty-3.1.19, created on 2016-01-07 11:37:47
          compiled from "C:\Program Files (x86)\EasyPHP-12.1\www\myproject\themes\default-bootstrap\modules\blockcart\blockcart.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:7592568d1bf1a96888-71036368%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:32440568e3ffb10df79-90353095%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '66cc066bda5b3324ad1e58e7e13bf32e5971e750' => 
     array (
       0 => 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\themes\\default-bootstrap\\modules\\blockcart\\blockcart.tpl',
-      1 => 1451568665,
+      1 => 1452093432,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '7592568d1bf1a96888-71036368',
+  'nocache_hash' => '32440568e3ffb10df79-90353095',
   'function' => 
   array (
   ),
@@ -55,9 +55,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_568d1bf348ba80_82798244',
+  'unifunc' => 'content_568e3ffc5d49f1_58233853',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_568d1bf348ba80_82798244')) {function content_568d1bf348ba80_82798244($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_replace')) include 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\tools\\smarty\\plugins\\modifier.replace.php';
+<?php if ($_valid && !is_callable('content_568e3ffc5d49f1_58233853')) {function content_568e3ffc5d49f1_58233853($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_replace')) include 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\tools\\smarty\\plugins\\modifier.replace.php';
 if (!is_callable('smarty_function_counter')) include 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\tools\\smarty\\plugins\\function.counter.php';
 ?>
 <!-- MODULE Block cart -->

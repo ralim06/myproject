@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-01-06 14:51:56
+<?php /* Smarty version Smarty-3.1.19, created on 2016-01-07 11:37:54
          compiled from "C:\Program Files (x86)\EasyPHP-12.1\www\myproject\themes\default-bootstrap\global.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:29601568d1bfc2c2a09-21273835%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:20606568e40026690f2-94446926%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '16115f725942841852da61fdf67778c36ad04414' => 
     array (
       0 => 'C:\\Program Files (x86)\\EasyPHP-12.1\\www\\myproject\\themes\\default-bootstrap\\global.tpl',
-      1 => 1451568660,
+      1 => 1452093432,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '29601568d1bfc2c2a09-21273835',
+  'nocache_hash' => '20606568e40026690f2-94446926',
   'function' => 
   array (
   ),
@@ -36,9 +36,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_568d1bfc4f9087_46609935',
+  'unifunc' => 'content_568e40028a35f3_01034904',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_568d1bfc4f9087_46609935')) {function content_568d1bfc4f9087_46609935($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_568e40028a35f3_01034904')) {function content_568e40028a35f3_01034904($_smarty_tpl) {?>
 <?php echo $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['addJsDef'][0][0]->addJsDef(array('isMobile'=>$_smarty_tpl->tpl_vars['mobile_device']->value),$_smarty_tpl);?>
 <?php echo $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['addJsDef'][0][0]->addJsDef(array('baseDir'=>$_smarty_tpl->tpl_vars['content_dir']->value),$_smarty_tpl);?>
 <?php echo $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['addJsDef'][0][0]->addJsDef(array('baseUri'=>$_smarty_tpl->tpl_vars['base_uri']->value),$_smarty_tpl);?>
