@@ -560,7 +560,6 @@
 	</div>
 *}
 {strip}
-
 {addJsDef deliveryAddress=$cart->id_address_delivery|intval}
 {addJsDefL name=txtProduct}{l s='product' js=1}{/addJsDefL}
 {addJsDefL name=txtProducts}{l s='products' js=1}{/addJsDefL}
